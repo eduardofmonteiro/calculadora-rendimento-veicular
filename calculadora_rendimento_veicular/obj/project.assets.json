@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programação\\calculadora-rendimento-veicular\\calculadora_rendimento_veicular\\calculadora_rendimento_veicular.csproj",
-      "projectName": "calculadora_rendimento_veicular",
-      "projectPath": "C:\\Programação\\calculadora-rendimento-veicular\\calculadora_rendimento_veicular\\calculadora_rendimento_veicular.csproj",
+      "projectUniqueName": "C:\\Programação\\calculadora-rendimento-veicular\\calculadora-rendimento-veicular\\calculadora_rendimento_veicular\\vehicle_performance_calculator.csproj",
+      "projectName": "vehicle_performance_calculator",
+      "projectPath": "C:\\Programação\\calculadora-rendimento-veicular\\calculadora-rendimento-veicular\\calculadora_rendimento_veicular\\vehicle_performance_calculator.csproj",
       "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Programação\\calculadora-rendimento-veicular\\calculadora_rendimento_veicular\\obj\\",
+      "outputPath": "C:\\Programação\\calculadora-rendimento-veicular\\calculadora-rendimento-veicular\\calculadora_rendimento_veicular\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

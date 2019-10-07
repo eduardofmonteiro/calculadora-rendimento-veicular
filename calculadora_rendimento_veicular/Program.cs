@@ -6,22 +6,22 @@ namespace calculadora_rendimento_veicular
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Calculadora de rendimento veicular(Km/L)!");
+            Console.WriteLine("Vehicle Performance Calculator (Km / L)!");
 
-            Console.WriteLine("Insira a distancia penrcorrida(KM): ");
+            Console.WriteLine("Enter the distance traveled (KM): ");
             string dist = Console.ReadLine();
             decimal distd = Convert.ToDecimal(dist);
 
-            Console.WriteLine("Insira o consumo de combustivel(L)");
+            Console.WriteLine("Enter fuel consumption (L)");
             string cons = Console.ReadLine();
             decimal consd = Convert.ToDecimal(cons);
 
-            decimal rend = 0;
+            decimal perf = 0;
 
-            rend =
+            perf =
                 distd / consd;
 
-            Console.WriteLine("O rendimento do seu veiculo foi de:"+rend+"KM/L!");
+            Console.WriteLine("The performance of your vehicle was: "+perf+"KM/L!");
         }
     }
 }
