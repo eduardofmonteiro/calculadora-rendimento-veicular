@@ -1,0 +1,11 @@
+C:\Programação\calculadora-rendimento-veicular\calculadora_rendimento_veicular\bin\Debug\netcoreapp2.1\calculadora_rendimento_veicular.deps.json
+C:\Programação\calculadora-rendimento-veicular\calculadora_rendimento_veicular\bin\Debug\netcoreapp2.1\calculadora_rendimento_veicular.runtimeconfig.json
+C:\Programação\calculadora-rendimento-veicular\calculadora_rendimento_veicular\bin\Debug\netcoreapp2.1\calculadora_rendimento_veicular.runtimeconfig.dev.json
+C:\Programação\calculadora-rendimento-veicular\calculadora_rendimento_veicular\bin\Debug\netcoreapp2.1\calculadora_rendimento_veicular.dll
+C:\Programação\calculadora-rendimento-veicular\calculadora_rendimento_veicular\bin\Debug\netcoreapp2.1\calculadora_rendimento_veicular.pdb
+C:\Programação\calculadora-rendimento-veicular\calculadora_rendimento_veicular\obj\Debug\netcoreapp2.1\calculadora_rendimento_veicular.csprojAssemblyReference.cache
+C:\Programação\calculadora-rendimento-veicular\calculadora_rendimento_veicular\obj\Debug\netcoreapp2.1\calculadora_rendimento_veicular.csproj.CoreCompileInputs.cache
+C:\Programação\calculadora-rendimento-veicular\calculadora_rendimento_veicular\obj\Debug\netcoreapp2.1\calculadora_rendimento_veicular.AssemblyInfoInputs.cache
+C:\Programação\calculadora-rendimento-veicular\calculadora_rendimento_veicular\obj\Debug\netcoreapp2.1\calculadora_rendimento_veicular.AssemblyInfo.cs
+C:\Programação\calculadora-rendimento-veicular\calculadora_rendimento_veicular\obj\Debug\netcoreapp2.1\calculadora_rendimento_veicular.dll
+C:\Programação\calculadora-rendimento-veicular\calculadora_rendimento_veicular\obj\Debug\netcoreapp2.1\calculadora_rendimento_veicular.pdb
